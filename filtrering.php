@@ -118,3 +118,5 @@ $val3 = $_POST['filter'];
  ?>
 
 </table>
+<p>Tillbaka till <a href="medlemmar.php">Existerande medlemmar</a></p>
+
